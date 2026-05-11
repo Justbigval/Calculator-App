@@ -26,6 +26,7 @@ setTimeout(() => {
   accurateTime.textContent = timeNow;
 }, 1000);
 
+
 let firstOperand;
 let secondOperand;
 let operator;
